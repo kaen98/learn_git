@@ -6,3 +6,5 @@ this is feature1
 
 this is feature2
 
+new feature2
+
